@@ -1,0 +1,14 @@
+D:\ITPlus\GU0124E\Buoi2\bin\Debug\net7.0\Buoi2.exe
+D:\ITPlus\GU0124E\Buoi2\bin\Debug\net7.0\Buoi2.deps.json
+D:\ITPlus\GU0124E\Buoi2\bin\Debug\net7.0\Buoi2.runtimeconfig.json
+D:\ITPlus\GU0124E\Buoi2\bin\Debug\net7.0\Buoi2.dll
+D:\ITPlus\GU0124E\Buoi2\bin\Debug\net7.0\Buoi2.pdb
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\Buoi2.AssemblyInfoInputs.cache
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\Buoi2.AssemblyInfo.cs
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\Buoi2.csproj.CoreCompileInputs.cache
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\Buoi2.dll
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\refint\Buoi2.dll
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\Buoi2.pdb
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\Buoi2.genruntimeconfig.cache
+D:\ITPlus\GU0124E\Buoi2\obj\Debug\net7.0\ref\Buoi2.dll
