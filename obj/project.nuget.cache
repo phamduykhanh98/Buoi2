@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PD9H8aBn+AneXa3Pu0d8uV3mkSzGbvLFUthv2Zw8+LWEVXhtANNChf2cj0I21Gwal2kuxkRi4hmOQaqK9B/3/Q==",
+  "dgSpecHash": "1jZsrDs/Rp7Ddtli1ufI8b6wg3EGZTptmlijULzcQ0vXjPPNxnuR3qmZAOJQ0LaCqbF5HOPGSRRQjppmMOqkaQ==",
   "success": true,
-  "projectFilePath": "D:\\ITPlus\\GU0124E\\Buoi2\\Buoi2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\MIS\\Documents\\GitHub\\BTVN_Buoi2\\Buoi2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MIS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\MIS\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\MIS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\MIS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

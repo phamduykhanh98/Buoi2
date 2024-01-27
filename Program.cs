@@ -8,27 +8,9 @@ namespace Buoi2 {
             //List và vòng lặp vô tận
 
 
-            List<string> studentList = new List<string>();
 
-            while (true)
-            {
-                Console.WriteLine("Nhap ten hoc vien, hoac nhap in de in ra danh sach hoc vien");
-                string input = Console.ReadLine();
-                if (input != null && input == "in")
-                {
-                    break;
-                } else if (input == "xoa")
-                {
-                    ///
-                }
-
-                studentList.Add(input);
-            }
-
-            for (int i = 0; i < studentList.Count; i++)
-            {
-                Console.WriteLine(studentList[i]);
-            }
+                Console.WriteLine("khanh");
+ 
         }
     }
 }
